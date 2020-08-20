@@ -1,0 +1,15 @@
+[ignore]
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+esproposal.optional_chaining=enable
+
+[strict]
+
+[declarations]
+<PROJECT_ROOT>/node_modules/.*
